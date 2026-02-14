@@ -35,8 +35,7 @@ export async function calculateComplexity(filepath: string): Promise<ComplexityS
 function isTestFile(filepath: string): boolean {
     return filepath.includes('.test.') ||
         filepath.includes('.spec.') ||
-        filepath.includes('/test/') ||
-        filepath.includes('/tests/');
+        filepath.includes('__tests__');
 }
 
 function createZeroScore(): ComplexityScore {
