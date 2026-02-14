@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { generateBadgeSvg, getGradeColor, formatCurrency } from '../src/core/badgeGenerator';
+import { generateBadgeSvg, getGradeColor, formatCurrency } from '../src/core/badgeGenerator.js';
 
 describe('Badge Generator', () => {
     describe('getGradeColor', () => {

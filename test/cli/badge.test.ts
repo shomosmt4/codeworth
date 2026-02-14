@@ -2,7 +2,7 @@ import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
 import path from 'path';
 import fs from 'fs/promises';
 import { Command } from 'commander';
-import { registerBadgeCommand } from '../../src/cli/commands/badge';
+import { registerBadgeCommand } from '../../src/cli/commands/badge.js';
 
 // Mock fs and process.exit
 vi.mock('fs/promises');
