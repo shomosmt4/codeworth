@@ -1,0 +1,17 @@
+# Source and Build
+src
+dist
+test
+reports
+coverage
+
+# Config
+tsconfig.json
+vitest.config.ts
+.eslintrc.cjs
+.prettierrc
+
+# Git
+.github
+.gitignore
+CONTRIBUTING.md

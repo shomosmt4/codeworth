@@ -10,7 +10,15 @@ npm install -g codeworth
 
 ## Usage
 
-Run the tool with the total lines of code:
+### Automatic Scan
+Run in any project root to automatically count lines and value the project:
+
+```bash
+codeworth
+```
+
+### Manual Input
+Provide a specific line count:
 
 ```bash
 codeworth 26024
@@ -23,11 +31,14 @@ codeworth 26024
 ### Examples
 
 ```bash
-# Default valuation
-codeworth 5000
+# Auto-scan current directory
+codeworth
 
-# Custom rate
-codeworth 5000 --rate 25
+# Auto-scan with custom rate
+codeworth --rate 25
+
+# Manual input
+codeworth 5000
 ```
 
 ## Output
