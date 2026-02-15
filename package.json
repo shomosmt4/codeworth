@@ -9,6 +9,9 @@
   "type": "module",
   "license": "MIT",
   "author": "David Weaver",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
   "keywords": [
     "valuation",
     "loc",
